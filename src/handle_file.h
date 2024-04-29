@@ -4,5 +4,4 @@
 
 char *lerArq(char *nome);
 void escreverArq(char *nome, char *escrito);
-
 #endif 
